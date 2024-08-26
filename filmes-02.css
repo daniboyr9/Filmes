@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    background-color: #e6e6fa;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+div h3 {
+    color: #9370db;
+    font-family: Bradley Hand, cursive;
+    font-size: 50px;
+    margin: 15px;
+}
+
+div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div table {
+    border-color: #8a2be2;
+}
