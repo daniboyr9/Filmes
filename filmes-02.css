@@ -26,3 +26,8 @@ div {
 div table {
     border-color: #8a2be2;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
