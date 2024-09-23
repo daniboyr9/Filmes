@@ -1,0 +1,20 @@
+html , body{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    background-color: #e6e6fa;
+}
+
+.principal{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    margin: 0;
+    color: #9370db;
+}
