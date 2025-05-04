@@ -8,6 +8,10 @@ body {
     height: 100%;
 }
 
+.assistido {
+    background-color: rgb(255, 240, 37);
+}
+
 div h3 {
     color: #30D5C8;
     font-family: Bradley Hand, cursive;
