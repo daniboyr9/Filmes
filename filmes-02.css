@@ -39,3 +39,12 @@ a{
 tr, a {
     color: black;
 }
+
+td {
+    padding-right: 15px
+}
+
+.center {
+    padding: 0;
+    text-align: center;
+}
